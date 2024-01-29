@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.html_css_js {
+    display: flex;
+    max-width: 1280;
+    width: 100%;
+    padding: 10px;
+}
+
+img {
+    width: 295px;
+    height: 41px;
+    margin: 37px 864px 623px 121px;
+}
+
+
