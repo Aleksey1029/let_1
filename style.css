@@ -4,17 +4,10 @@
     box-sizing: border-box;
 }
 
-.html_css_js {
-    display: flex;
-    max-width: 1280;
-    width: 100%;
-    padding: 10px;
+img {
+    width: calc(8.8vw + 182px);
 }
 
-img {
-    width: 295px;
-    height: 41px;
-    margin: 37px 864px 623px 121px;
-}
+
 
 
