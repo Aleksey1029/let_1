@@ -2,12 +2,57 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    margin: 0 calc(10.6vw - 16px) 160px;
 }
 
 img {
     width: calc(8.8vw + 182px);
+    margin-top: 37px;
+    margin-bottom: 85px;
 }
 
+.cours_info {
+    display: flex;
+    gap: 161px;
+}
 
+.cours_data {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 21px;
+    line-height: 140%;
+}
+
+.value {
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 140px;
+}
+
+.html_css_js h1 {
+font-family: "Chava";
+font-size: 80px;
+line-height: 110%; /* 88px */
+margin-bottom: 40px;
+}
+
+.html_css_js p {
+font-size: 27px;
+font-weight: 300;
+line-height: 140%; /* 37.8px */
+}
+
+.html_css_js {
+    background-image: url(./img/html-css-js.svg);
+    background-repeat: no-repeat;
+    background-position: top 121px right 58px;
+}
 
 
